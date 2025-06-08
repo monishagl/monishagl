@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @monishagl  
-- 👀 I’m interested in building secure, scalable backend systems.  
-- 🌱 I’m currently learning about credit risk modeling, fraud detection algorithms, and distributed system design for a personal project
-- 💞️ I’m looking to collaborate on open-source projects related to cybersecurity, finance, or cloud-native apps , especially in Java.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/) | monishagsurya@gmail.com  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love solving CTF challenges, optimizing systems for fun.
+Hi, I’m @monishagl
+I’m interested in building secure, scalable backend systems.
+I’m currently learning about credit risk modeling, fraud detection algorithms, and distributed system design through a personal project.
+I’m looking to collaborate on open-source projects related to cybersecurity, finance, or cloud-native applications—especially in Java.
+You can reach me at LinkedIn or monishagsurya@gmail.com.
+Pronouns: she/her
+Fun fact: I enjoy solving CTF challenges and optimizing systems in my spare time!
 
 
 <!---
